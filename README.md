@@ -6,6 +6,7 @@ Simultaneous Localization And Mapping  / An Autonomous Robotic Vehicle for Mappi
   <img src="Images/SLAMatron.jpg" width="500">
 </p>
 
+This Project is being implemented for obtaining my Electrical and Computer Science Degree. 
 
 A robot using MPU 6050 IMU, BT, 2 Ultrasonic Sensors and 2 uln2003 for controling the 28byj-48 steppers
 The robot can be programmed as desplayed at the commented section in loop() in order to execute SLAM.
