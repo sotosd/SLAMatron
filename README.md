@@ -1,5 +1,10 @@
 # SLAMatron
+
 Simultaneous Localization And Mapping  / An Autonomous Robotic Vehicle for Mapping .
+
+<p align="center">
+  <img src="Images/SLAMatron.jpg" width="500">
+</p>
 
 
 A robot using MPU 6050 IMU, BT, 2 Ultrasonic Sensors and 2 uln2003 for controling the 28byj-48 steppers
